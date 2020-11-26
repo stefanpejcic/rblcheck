@@ -14,7 +14,6 @@ if(!function_exists("rblcheck"))
 			"b.barracudacentral.org",
 			"bl.mailspike.net",
 			"bl.spameatingmonkey.net",
-			"bl.spamcannibal.org",
 			"bl.tiopan.com",
 			"blackholes.five-ten-sg.com",
 			"blackholes.intersil.net",
@@ -22,7 +21,6 @@ if(!function_exists("rblcheck"))
 			"cbl.abuseat.org",
 			"combined.njabl.org",
 			"db.wpbl.info",
-			"dnsbl.ahbl.org",
 			"dnsbl.inps.de",
 			"dnsbl.justspam.org",
 			"dnsbl.mags.net",
@@ -57,7 +55,6 @@ if(!function_exists("rblcheck"))
 			"virbl.bit.nl",
 			"orvedb.aupads.org",
 			"korea.services.net",
-			"bl.emailbasura.org"
 		);
 		
 		$listed = array();
